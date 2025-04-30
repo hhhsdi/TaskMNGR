@@ -1,6 +1,5 @@
 # Advanced Task Manager
 
-![Task Manager Screenshot](screenshot.png) *Пример интерфейса (замените screenshot.png на реальное изображение)*
 
 ## Описание
 
